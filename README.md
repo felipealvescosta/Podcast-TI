@@ -49,6 +49,7 @@
 - [TecnoCast](https://tecnoblog.net/categoria/podcast/)
 - [UltraGeek](http://www.redegeek.com.br/podcast/)
 - [CocaTech](https://itunes.apple.com/br/podcast/cocatech/id437224054?mt=2)
+- [NerdCast](https://jovemnerd.com.br/nerdcast/)
 
 # Podcast-Internacionais
 
